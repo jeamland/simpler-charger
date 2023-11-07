@@ -1740,7 +1740,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x06") (at 231.14 114.3 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 2bf4d825-c436-4c30-9409-919004c98043)
     (property "Reference" "J3" (at 233.68 114.3 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2295,7 +2295,7 @@
   )
 
   (symbol (lib_id "Device:C_Polarized_Small") (at 58.42 86.36 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5ce75795-7913-4aa9-ae56-4220cb9e0ed2)
     (property "Reference" "C5" (at 60.96 84.5439 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2651,7 +2651,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x06") (at 231.14 93.98 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a224661e-6481-4c6a-bd73-5d49a0952a19)
     (property "Reference" "J2" (at 233.68 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2928,7 +2928,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 27.94 81.28 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid cc7cc3da-37b8-469c-b6b5-7cde173218f8)
     (property "Reference" "J1" (at 25.4 81.28 0)
       (effects (font (size 1.27 1.27)) (justify left))
